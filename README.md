@@ -1,4 +1,4 @@
-# Simple Neural Network
+# Perceptron Layered Neural Network
 
 If you have any questions, write me a message on my website.
   [stevenpjohnso.github.io](https://stevenpjohnso.github.io)
